@@ -1,10 +1,6 @@
 <h1 align="center">Salut, je suis Argyrou Charalambos 👋</h1>
 <h3 align="center">Développeur Web | JavaScript | React | AdonisJS | PostgreSQL</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image-url" width="800" alt="Modern banner">
-</p>
-
 ---
 
 ### 🌟 À propos de moi
@@ -65,19 +61,16 @@ Je suis un **Développeur Web** expérimenté, passionné par la création d'app
 
 ### 🚀 Projets Notables
 
-- **[Projet 1 - Nom](https://github.com)** : Description rapide du projet, réalisé avec React et AdonisJS.
-- **[Projet 2 - Nom](https://github.com)** : Application backend évolutive avec PostgreSQL et AdonisJS.
-- **[Projet 3 - Nom](https://github.com)** : Interface utilisateur moderne et responsive avec React.
+- **[Projet 1 - Short Url](https://github.com/ArgyrouCharalambos/qr-code-generator)** : Description rapide du projet, réalisé avec Taiwinld , PostgreSQL et AdonisJS.
+- **[Projet 2 - Pharma Manager](https://github.com/ArgyrouCharalambos/PharManager-ERP-)** : Application backend évolutive avec Taiwinld, PostgreSQL et AdonisJS.
+- **[Projet 3 - Port-folio](https://github.com/ArgyrouCharalambos/Portfolio)** : Interface utilisateur moderne et responsive.
 
 ---
 
 ### 👨‍💻 Contactez-moi
 
 <p align="center">
-  <a href="mailto:votre-email@example.com"><img src="https://img.shields.io/badge/-Envoyer%20un%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Envoyer un email"></a>
-  <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-footer-image-url" width="800" alt="Footer Banner">
+  <a href="mailto:argykaselve@gmail.com"><img src="https://img.shields.io/badge/-Envoyer%20un%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Envoyer un email"></a>
+  <a href="https://linkedin.com/in/argyrou-charalambos"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://argyroucharalambos.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
 </p>
