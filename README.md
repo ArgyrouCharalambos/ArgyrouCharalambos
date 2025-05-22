@@ -54,10 +54,8 @@ Je suis un **Développeur Web** expérimenté, passionné par la création d'app
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArgyrouCharalambos&theme=radical" alt="GitHub Streak">
 </p>
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArgyrouCharalambos&layout=compact&theme=radical" alt="Langages les plus utilisés">
 </p>
-<img src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png" />
-https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png
+[<img align="left" width="400" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 ---
 
 ### 🚀 Projets Notables
