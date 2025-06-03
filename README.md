@@ -65,6 +65,8 @@ Je suis un **Développeur Web** expérimenté, passionné par la création d'app
 
 ---
 
+  [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/ArgyrouCharalambos.svg)](https://user-badge.committers.top/congo_kinshasa/ArgyrouCharalambos)
+
 ### 👨‍💻 Contactez-moi
 
 <p align="center">
