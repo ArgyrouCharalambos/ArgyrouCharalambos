@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Argyrou Charalambos 👋</h1>
-<h3 align="center">Développeur Web | JavaScript | React | AdonisJS | PostgreSQL</h3>
+<h3 align="center">Développeur Web | JavaScript | AdonisJS | PostgreSQL</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 Je suis un **Développeur Web** expérimenté, passionné par la création d'applications modernes et performantes. Avec une expertise dans l'écosystème JavaScript, je conçois des solutions frontend élégantes et des architectures backend robustes.
 
 - 🌐 **Langages principaux** : JavaScript (ES6+)
-- ⚛️ **Frameworks/Librairies** : React, AdonisJS
+- ⚛️ **Frameworks/Librairies** : AdonisJS
 - 💾 **Bases de données** : PostgreSQL
 - 🎨 **Design** : Interfaces modernes et responsives
 
@@ -36,7 +36,6 @@ Je suis un **Développeur Web** expérimenté, passionné par la création d'app
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/-AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" alt="AdonisJS">
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
