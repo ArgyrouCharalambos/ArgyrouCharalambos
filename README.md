@@ -17,7 +17,7 @@ Je suis un **Développeur Web** expérimenté, passionné par la création d'app
 ### 🛠️ Mes Compétences
 
 #### **Frontend**
-- Développement d'interfaces utilisateur dynamiques et interactives avec React.
+- Développement d'interfaces utilisateur dynamiques et interactives avec le moteur de template par défaut de AdonisJs 6 et TailwindCSS.
 - Intégration de designs modernes et responsives.
 - Utilisation des dernières fonctionnalités JavaScript.
 
